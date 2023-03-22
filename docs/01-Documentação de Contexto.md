@@ -14,7 +14,7 @@ Esse projeto busca resolver o problema de entusiastas de cinema que não têm um
 
 ## Objetivos
 
-O objetivo geral deste trabalho é criar uma aplicação web que permita aos usuários gerenciar uma lista de filmes de sua preferência, centralizando em uma única plataforma, um catágolo dos diversos serviços de streaming disponíveis.
+O objetivo geral deste projeto é criar uma aplicação web que permita aos usuários gerenciar uma lista de filmes de sua preferência, centralizando em uma única plataforma, um catágolo dos diversos serviços de streaming disponíveis.
 
 Como objetivos específicos temos:
   - Interagir com o catálogo de filmes por meio de notas pessoais, listas de interesses, filmes assistidos e gêneros preferidos.
