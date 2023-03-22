@@ -14,21 +14,14 @@ Esse projeto busca resolver o problema de entusiastas de cinema que não têm um
 
 ## Objetivos
 
-O objetivo geral deste trabalho é unificar cinéfilos de diferentes serviços de streaming em uma unica plataforma.
-
-
+O objetivo geral deste trabalho é criar uma aplicação web que permita aos usuários gerenciar uma lista de filmes de sua preferência, centralizando em uma única plataforma, um catágolo dos diversos serviços de streaming disponíveis.
 
 Como objetivos específicos temos:
-  - Interagir com o catálogo de filmes por meio de notas pessoais, listas de interesses e de filmes assistidos.
-  - Verificar onde o filme está disponível para assisti-lo.
-  - facilitar a interação organica de recomendações de filmes (não depender tanto de algoritmos de recomendações)
-  - Diminuir o tempo de escolha de um filme (fadiga de decisão)
+  - Interagir com o catálogo de filmes por meio de notas pessoais, listas de interesses, filmes assistidos e gêneros preferidos.
+  - Verificar em qual plataforma de streaming o filme está disponível para assisti-lo.
+  - Diminuir o tempo e fadiga na escolha de qual filme assistir.
+  - Facilitar a interação organica de recomendações de filmes de acordo com a definição das preferências usuário, por filmes já assistidos e bem avaliados.
 
-
- 
-> **Links Úteis**:
-> 
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
 
 ## Justificativa
 
