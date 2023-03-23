@@ -17,7 +17,7 @@ Esse projeto busca resolver o problema de entusiastas de cinema que não têm um
 O objetivo geral deste projeto é criar uma aplicação web que permita aos usuários gerenciar uma lista de filmes de sua preferência, dos jas assistidos e que usuário deseja inserir. 
 
 Como objetivos específicos temos:
-  - Interagir com o catálogo de filmes por meio de notas pessoais, listas de interesses, filmes assistidos, interesse em assistir e gêneros preferidos.
+  - Interagir com o catálogo de filmes para definir listas de interesses e filmes assistidos.
   - Elaborar gráfico de preferência de gêneros.
   - Verificar em qual plataforma de streaming o filme está disponível para assisti-lo.
 
