@@ -19,7 +19,6 @@ O objetivo geral deste projeto é criar uma aplicação web que permita aos usu�
 Como objetivos específicos temos:
   - Interagir com o catálogo de filmes por meio de notas pessoais, listas de interesses, filmes assistidos, interesse em assistir e gêneros preferidos.
   - Elaborar gráfico de preferência de gêneros.
-  - Facilitar a interação organica de recomendações de filmes de acordo com a definição das preferências usuário, por filmes já assistidos e bem avaliados.
   - Verificar em qual plataforma de streaming o filme está disponível para assisti-lo.
 
 
